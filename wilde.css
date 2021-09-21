@@ -11,3 +11,35 @@ body{
 .CECILY{
     color: chocolate;
 }
+#Role {
+    font-family: 'Times New Roman', Times, serif ;
+    font-size: large;
+    border: 3px solid rgb(12, 0, 12);
+    width: 40%;
+    border: 1px solid brown;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    margin-right: 120px;
+    margin-left: 60px;
+    
+    
+
+}
+#Role tr{
+    border:2px solid black;
+    text-align: center;
+    padding: 2px;
+
+}
+#Role tr:nth-child(even){background-color: darkturquoise;}
+#Role tr:nth-child(odd){background-color:  yellowgreen;}
+#Role tr:hover{background-color: teal;}
+
+#Role th {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: cornflowerblue;
+    color:blue
+}
