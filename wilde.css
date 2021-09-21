@@ -49,3 +49,23 @@ body{
 h5:hover {
     text-shadow: 2px 2px 3px cyan;border: solid gray;
 }
+ul.navbar-horizontal {
+    
+    list-style-type: none;
+    margin: 15;
+    padding: 15;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:aquamarine;
+    border: 2px solid rgb(19, 5, 34);
+    background-color: paleturquoise;
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    }
+    ul.navbar-horizontal a:hover {
+        background-color:whitesmoke;
+        color: yellow;
+    }
