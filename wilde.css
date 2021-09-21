@@ -1,18 +1,18 @@
 body{
     background-color: azure;
 }
-#names {color: black;font-family: 'Courier New', Courier, monospace;font-size: larger;}
+
 #speeches{color: black;font-family: serif;font-size: large;}
 #SD:hover {background-color: chartreuse; color: black;font-family: 'Times New Roman', Times, serif;font-size: medium;}
 
 .GWENDOLEN {
-    color: blue;
+    color: blue;font-size: larger;font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .CECILY{
-    color: chocolate;
+    color: chocolate;font-size: larger;font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .ALGERNON{
-    color: blueviolet;
+    color: blueviolet;font-size: larger;font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #Role {
     font-family: 'Times New Roman', Times, serif ;
