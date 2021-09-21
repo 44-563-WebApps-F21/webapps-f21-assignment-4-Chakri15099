@@ -1,0 +1,13 @@
+body{
+    background-color: azure;
+}
+#names {color: black;font-family: 'Courier New', Courier, monospace;font-size: 90%;}
+#speeches{color: black;font-family: serif;font-size: 70%;}
+#SD.hover {background-color: aliceblue; color: black;font-family: 'Times New Roman', Times, serif;font-size: 60%;}
+
+.GWENDOLEN {
+    color: blue;
+}
+.CECILY{
+    color: chocolate;
+}
